@@ -1134,7 +1134,7 @@ body {
     outline: none;
     height: 30px;
     color: #fff;
-    width: 100px;
+    width: 30px;
     text-transform: capitalize;
     font-size: 16px;
     font-weight: 500px;
@@ -1177,7 +1177,7 @@ body {
     border: whitesmoke;
     border-color: #fff;
     background-color: whitesmoke;
-    width: 60px;
+    width: 30px;
     text-align: center;
     border-radius: 66px;
     padding-top: 6px;
